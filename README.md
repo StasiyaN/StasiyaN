@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning wordpress development
 
-- ⚡ Fun fact: I have 2 snails & 2 slugs
+- ⚡ Fun fact: I have 3 snails & 1 slug
 
 <!---
 StasiyaN/StasiyaN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
